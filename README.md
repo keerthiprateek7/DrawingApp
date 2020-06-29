@@ -1,3 +1,3 @@
 # DrawingApp
 
-Project is deployed at: [Deployment Page](https://keerthiprateek7.github.io/DrawingApp/)
+Project is deployed at: [Drawing Application](https://keerthiprateek7.github.io/DrawingApp/)
